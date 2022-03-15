@@ -5,6 +5,7 @@ go 1.17
 require (
 	github.com/cosmos/cosmos-sdk v0.42.9
 	github.com/medibloc/panacea-core/v2 v2.0.3-0.20220117081529-e2ac989f38b4
+	google.golang.org/grpc v1.43.0
 )
 
 require (
